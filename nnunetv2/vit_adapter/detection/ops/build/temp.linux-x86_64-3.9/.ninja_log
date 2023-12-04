@@ -1,0 +1,4 @@
+# ninja log v5
+0	4211	1699567249023317928	/home/feifeili/experiment/vit_adapter/ViT-Adapter/detection/ops/build/temp.linux-x86_64-3.9/home/feifeili/experiment/vit_adapter/ViT-Adapter/detection/ops/src/cpu/ms_deform_attn_cpu.o	56fdf8820ebc2e13
+0	14317	1699567259123596430	/home/feifeili/experiment/vit_adapter/ViT-Adapter/detection/ops/build/temp.linux-x86_64-3.9/home/feifeili/experiment/vit_adapter/ViT-Adapter/detection/ops/src/vision.o	78d30795713b77c2
+0	15147	1699567259959619450	/home/feifeili/experiment/vit_adapter/ViT-Adapter/detection/ops/build/temp.linux-x86_64-3.9/home/feifeili/experiment/vit_adapter/ViT-Adapter/detection/ops/src/cuda/ms_deform_attn_cuda.o	24c65c67206eaef3

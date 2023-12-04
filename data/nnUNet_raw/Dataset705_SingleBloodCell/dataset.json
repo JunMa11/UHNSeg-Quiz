@@ -1,0 +1,16 @@
+{
+    "channel_names": {
+        "0": "R",
+        "1": "G",
+        "2": "B"
+    },
+    "labels": {
+        "background": 0,
+        "cyto": 1,
+        "nuc": 2
+    },
+    "numTraining": 231,
+    "file_ending": ".png",
+    "name": "Dataset705_SingleBloodCell",
+    "description": "Cell Segmentation for ML Quiz"
+}

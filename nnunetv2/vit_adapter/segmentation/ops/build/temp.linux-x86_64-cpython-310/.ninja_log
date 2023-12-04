@@ -1,0 +1,4 @@
+# ninja log v5
+0	6231	1699655108224610870	/fs01/home/junma/unet/nnUNet/nnunetv2/vit_adapter/segmentation/ops/build/temp.linux-x86_64-cpython-310/fs01/home/junma/unet/nnUNet/nnunetv2/vit_adapter/segmentation/ops/src/cpu/ms_deform_attn_cpu.o	41ad3ede6480c017
+1	18927	1699655120928958246	/fs01/home/junma/unet/nnUNet/nnunetv2/vit_adapter/segmentation/ops/build/temp.linux-x86_64-cpython-310/fs01/home/junma/unet/nnUNet/nnunetv2/vit_adapter/segmentation/ops/src/vision.o	49447ea11160ee62
+1	20810	1699655122808099526	/fs01/home/junma/unet/nnUNet/nnunetv2/vit_adapter/segmentation/ops/build/temp.linux-x86_64-cpython-310/fs01/home/junma/unet/nnUNet/nnunetv2/vit_adapter/segmentation/ops/src/cuda/ms_deform_attn_cuda.o	8d0239bd27b338ea
